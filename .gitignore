@@ -1,0 +1,7 @@
+.vs/
+x64/
+Release/
+Debug/
+*.vcxproj.user
+MeshTo4DLookup/out/*.png
+MeshTo4DLookup/out/*.meta
